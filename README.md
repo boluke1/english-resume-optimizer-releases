@@ -1,5 +1,15 @@
 # 英文简历优化专家 · 固定链接发布目录
 
+## 已上线的固定链接
+
+```
+https://github.com/boluke1/english-resume-optimizer-releases/raw/main/english-resume-optimizer-latest.zip
+```
+
+仓库：https://github.com/boluke1/english-resume-optimizer-releases （公开）
+这条链接只依赖「账号 + 仓库 + 分支 + 路径」，每次覆盖 `english-resume-optimizer-latest.zip` 并 push 后，
+**同一个链接就返回新内容**。发给别人的文案见 `分享文案.md`。
+
 ## 这个目录解决什么问题
 
 专家分享链接（`?sharecode=...`）绑定的是**分享那一刻上传的 zip 快照**，专家更新后旧链接拿不到新版。本目录用「**固定文件名 + 固定位置 + 覆盖上传**」绕开这个限制：
