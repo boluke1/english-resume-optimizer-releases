@@ -1,0 +1,10 @@
+version: 1.1.0
+built_at: 2026-11-13T09:16:59+0800
+files: 16
+size: 2.2MB
+sha256: d8170e5be8573b20841e9b3e6a451f295243ca099bd61ccc0054a37a2ef0713d
+zip: english-resume-optimizer-latest.zip
+
+# 接收者核对方式（macOS/Linux）:
+#   shasum -a 256 english-resume-optimizer-latest.zip
+# 两者一致即为你拿到的是最新版。

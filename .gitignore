@@ -1,0 +1,5 @@
+# 打包脚本的中转产物，每次构建都会重新生成，不纳入版本管理
+english-resume-optimizer.zip
+
+# 旧版本备份（install.sh 产生）
+*.bak-*
